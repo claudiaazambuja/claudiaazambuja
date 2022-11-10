@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🏠 I’m currently living at Pelotas, Brazil  
-- 💻 I'm a full stack web developer
-- 🎨 I'm a self-taught UI designer
-- 🎓 I'm a student 
+🏠 I’m currently living at Pelotas, Brazil  
+💻 I'm a full stack web developer
+🎨 I'm a self-taught UX designer
+🎓 I'm a student 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
