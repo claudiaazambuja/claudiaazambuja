@@ -1,9 +1,5 @@
 ### Hi there, I'm [CLAUDIA](https://github.com/cclabdis) 👋
 
-<!--
-**cclabdis/cclabdis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🏠 I’m currently living at Pelotas, Brazil  
 💻 I'm a full stack web developer
@@ -18,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 
