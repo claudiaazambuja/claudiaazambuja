@@ -39,6 +39,11 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
 
+**Graphic Tools**
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
+
+
+
 
 <h2 align="center">Find me on</h2>
 <p align="center">
@@ -64,10 +69,7 @@
 
 </p>
   
-  
- 
-<a align="center" href="https://www.buymeacoffee.com/cclabdis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" /></a>
-
+   
   
   <p align="center">
   Made with ❤️ in WB
