@@ -1,10 +1,10 @@
 ### Hi there, I'm [CLAUDIA](https://github.com/cclabdis) 👋
 
 
-🏠 I’m currently living at Pelotas, Brazil  
-💻 I'm a full stack web developer
-🎨 I'm a self-taught UX designer
-🎓 I'm a student 
+🏠 I’m currently living at Pelotas, Brazil  <br/>
+💻 I'm a full stack web developer <br/>
+🎨 I'm a self-taught UX designer <br/>
+<!-- 🎓 I'm a student 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,8 +14,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-
+👉🏻 ![Visitor Count](https://profile-counter.glitch.me/cclabdis/count.svg)
 
 **Front-end**
 
@@ -37,3 +38,37 @@
 **Tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
+
+
+<h2 align="center">Find me on</h2>
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/claudia-azambuja">
+    <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/cclabdis">
+    <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.instagram.com/ccazambuja">
+    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.facebook.com/ciksh">
+    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://twitter.com/cclabdis">
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
+  </a>
+
+</p>
+  
+  
+ 
+<a align="center" href="https://www.buymeacoffee.com/cclabdis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" /></a>
+
+  
+  <p align="center">
+  Made with ❤️ in WB
+</p>
