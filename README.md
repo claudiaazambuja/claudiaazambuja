@@ -1,7 +1,7 @@
 ### Hi there, I'm [CLAUDIA](https://github.com/cclabdis) 👋
 
 
-🏠 I’m currently living at Pelotas, Brazil ![image](https://user-images.githubusercontent.com/79346301/202098149-b1d4c31a-03af-4e9c-bb0a-817a7fdbabd7.png)
+🏠 I’m currently living at Pelotas, Brazil <img height="20" src="https://user-images.githubusercontent.com/79346301/202098149-b1d4c31a-03af-4e9c-bb0a-817a7fdbabd7.png">
  <br/>
 💻 I'm a full stack web developer <br/>
 🎨 I'm a self-taught UX designer <br/>
