@@ -19,22 +19,6 @@
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/cclabdis/count.svg)
 
-**Front-end**
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
-
-
-
-**Tools**
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
-
-**Graphic Tools**
-
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
 
 
 
@@ -44,10 +28,6 @@
 
   <a href="https://www.linkedin.com/in/claudia-azambuja">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/cclabdis">
-    <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
-  </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.instagram.com/ccazambuja">
     <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
