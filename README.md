@@ -4,8 +4,8 @@
 🏠 I’m currently living at Pelotas, Brazil <img height="20" src="https://user-images.githubusercontent.com/79346301/202098149-b1d4c31a-03af-4e9c-bb0a-817a7fdbabd7.png">
  <br/>
 💻 I'm a full stack web developer <br/>
-🎨 I'm a self-taught UX designer <br/>
-<!-- 🎓 I'm a student 
+<!--  🎨 I'm a self-taught UX designer <br/>
+🎓 I'm a student 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,9 +15,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/cclabdis/count.svg)
+
+ 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/cclabdis/count.svg) -->
 
 
 
