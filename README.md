@@ -2,8 +2,7 @@
 
 
 🏠 I’m currently living at Pelotas, Brazil <img height="20" src="https://user-images.githubusercontent.com/79346301/202098149-b1d4c31a-03af-4e9c-bb0a-817a7fdbabd7.png">
- <br/>
-💻 I'm a full stack web developer <br/>
+ <br/> 💻 I am an extremely curious <br/>
 <!--  🎨 I'm a self-taught UX designer <br/>
 🎓 I'm a student 
 
@@ -19,7 +18,9 @@
 
  👉🏻 ![Visitor Count](https://profile-counter.glitch.me/cclabdis/count.svg) -->
 
-
+<a href="https://github.com/cclabdist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclabdis&theme=dracula&hide_langs_below=1" />
+</a>
 
 
 
@@ -33,15 +34,7 @@
     <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.facebook.com/ciksh">
-    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://twitter.com/cclabdis">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
-  </a>
-
-</p>
+ </p>
   
    
   
