@@ -33,11 +33,12 @@
         <img width="12" /> Express
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" title="React"/>
-        <img width="12" /> React
+        <img src="https://avatars.githubusercontent.com/u/24939410?s=280&v=4" alt="React" height="40" title="React"/>
+        <img width="12" /> Fastify
       </td>
     </tr>
-    <tr>
+
+   <tr>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" height="40" title="Postgres" />
         <img width="12" /> Postgres
@@ -59,7 +60,12 @@
         <img width="12" /> Jest
       </td>
     </tr>
-    <tr>
+
+   <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" title="React"/>
+        <img width="12" /> React
+      </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40" title="HTML"/> 
         <img width="12" /> HTML
@@ -76,12 +82,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" title="C"/>
         <img width="12"/> C
       </td>
-      <td>
+    </tr>
+
+   <tr>
+     <td>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" title="Git"/>
         <img width="12"/> Git
       </td>
-    </tr>
-    <tr>
       <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" title="Linux"/>
         <img width="12"/> Linux
