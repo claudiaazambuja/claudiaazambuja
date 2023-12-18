@@ -1,7 +1,7 @@
 ### Hi there, I'm [CLAUDIA](https://github.com/cclabdis) 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/claudia-azambuja)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/claudiazmb/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/claudiaazambuj/)
 
 🏠 I’m currently living at Pelotas, Brazil <img height="20" src="https://user-images.githubusercontent.com/79346301/202098149-b1d4c31a-03af-4e9c-bb0a-817a7fdbabd7.png">
  <br/> 💻 I am an extremely curious <br/>
