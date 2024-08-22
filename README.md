@@ -25,3 +25,7 @@ class PersonalInformations {
 const me = new PersonalInformations();
 me.sayHi();
 ```
+
+<p align="center">
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="gatinho-doido"> 
+</p>
