@@ -7,24 +7,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=✋+Hi+There+!&center=true&title_color=79c0ff"></a>
 </p>    
  
- ```ts
-class PersonalInformations {
-    name: string;
-    role: string;
 
-    constructor() {
-        this.name = "Claudia Azambuja";
-        this.role = "Software Engineer";
-    }
-
-    sayHi(): void {
-        console.log("Thank you for visiting! I hope you enjoy exploring my work.");
-    }
-}
-
-const me = new PersonalInformations();
-me.sayHi();
-```
 
 <p align="center">
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="gatinho-doido"> 
